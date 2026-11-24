@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Unlock 9 beautiful, professionally created maps for Fantasy Grounds Unity, including temples, ruins, cliffs, and more. Easily combine them to create a massive seamless map. Requires free Fantasy Grounds software and any ruleset.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,15 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 7x, 8x, or 10x | 10.6.8 or newer |
+| **Processor** | Min: 1.6 GHz or higher processor / Rec: 2.0 GHz or higher processor | 1.6 GHz or higher processor |
+| **Memory** | Min: 1 GB RAM / Rec: 4 GB RAM | 1 GB RAM |
+| **Graphics** | Min: Graphics card recommended / Rec: DirectX or OpenGL compatible card. | Graphics card recommended |
+| **DirectX** | Version 9.0c | Version 9.0c |
+| **Storage** | Min: 500 MB available space / Rec: 2 GB available space | 500 MB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **Sound Card** | a sound card is required for voice communication using … | A sound card is required for voice communication using … |
+| **Additional Notes** | Requirements vary by the add-ons installed and the numb… | This product uses a wine wrapper to simplify installati… |
 
 ---
 
